@@ -1,0 +1,32 @@
+
+	/*public static Orders getDetails()
+	
+	{
+		
+		
+		Orders orderm=new Orders();
+		
+				orderm.setUsername("shiva");
+			orderm.setShipmentaddress("afasdasd");
+			orderm.setEmail("shivar.vijay.07@gmail.com");
+			orderm.setTotal(1000);
+			orderm.setPaymode("mastercard");
+			orderm.setOrderid(22);
+			return orderm;
+		
+		}
+	
+	
+	@RequestMapping("/mail")
+	
+	public static String main(String arg[])
+	{
+	AbstractApplicationContext context = new AnnotationConfigApplicationContext(DBConfig.class);
+
+	OrderService orderService = (OrderService) context.getBean("mailControl1");
+	orderService.sendOrderConfirmation1(getDetails());
+	((AbstractApplicationContext) context).close();
+	
+	return "ThankPage";
+	}*/
+	

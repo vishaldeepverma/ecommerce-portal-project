@@ -1,0 +1,595 @@
+
+.navbar-custom {
+    background-color:#066C71;
+      box-shadow: none;
+    
+}
+
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {background-color: #f1f1f1}
+
+.show {display:block;}
+
+.parallax {
+    /* The image used */
+    background-image:url('https://www.chennaiyil.com/wp-content/uploads/2017/05/shopping-in-wexford.jpg');
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover 851px 350px;
+}
+
+
+.parallax1 {
+    /* The image used */
+    background-image:url('https://ak9.picdn.net/shutterstock/videos/12199724/thumb/1.jpg');
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+
+.book {
+    /* The image used */
+    background-image:url('https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2843099.jpg');
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover  851px 350px;
+}
+
+
+.book1 {
+    /* The image used */
+    background-image:url('https://photographyjournal2013.files.wordpress.com/2013/04/library-stacks.jpg');
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+
+.music {
+    /* The image used */
+    background-image:url('https://images3.alphacoders.com/169/thumb-1920-169665.jpg');
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover  851px 350px;
+}
+
+
+.music1 {
+    /* The image used */
+    background-image:url('https://www.walldevil.com/wallpapers/a18/opera-website-speaker-background-ground-back.jpg');
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.photo {
+    /* The image used */
+    background-image:url('https://scontent.fmaa2-1.fna.fbcdn.net/v/t1.0-9/18342694_1897959040449134_3212668137284523170_n.jpg?oh=62538fbacad2490934784094be3c074b&oe=59F237DE');
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover  851px 350px;
+}
+
+
+.photo1 {
+    /* The image used */
+    background-image:url('http://www.zweezle.in/blog/wp-content/uploads/2015/12/Photography.jpeg');
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+  
+  
+  .paint {
+    /* The image used */
+    background-image:url('https://www.demilked.com/magazine/wp-content/uploads/2015/10/renaissance-paintings-recreated-auto-mechanics-photography-freddy-fabris-5.jpg');
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover  851px 350px;
+}
+
+
+.paint1 {
+    /* The image used */
+    background-image:url('https://www.chinesecoins.com/wp-content/uploads/2014/06/china_74680342.jpg');
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+  
+
+ .game {
+    /* The image used */
+    background-image:url('http://thisgengaming.com/wp-content/uploads/2016/03/original.jpg');
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover  851px 350px;
+}
+
+
+.game1 {
+    /* The image used */
+    background-image:url('http://www.hdwallpapers.in/walls/world_of_warplanes_game-wide.jpg');
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+  
+
+
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,300);
+footer { background-color:#0c1a1e; min-height:350px; font-family: 'Open Sans', sans-serif; }
+.footerleft { margin-top:50px; padding:0 36px; }
+.logofooter { margin-bottom:10px; font-size:25px; color:#fff; font-weight:700;}
+
+.footerleft p { color:#fff; font-size:12px !important; font-family: 'Open Sans', sans-serif; margin-bottom:15px;}
+.footerleft p i { width:20px; color:#999;}
+
+
+.paddingtop-bottom {  margin-top:50px;}
+.footer-ul { list-style-type:none;  padding-left:0px; margin-left:2px;}
+.footer-ul li { line-height:29px; font-size:12px;}
+.footer-ul li a { color:#a0a3a4; transition: color 0.2s linear 0s, background 0.2s linear 0s; }
+.footer-ul i { margin-right:10px;}
+.footer-ul li a:hover {transition: color 0.2s linear 0s, background 0.2s linear 0s; color:#ff670f; }
+
+.social:hover {
+     -webkit-transform: scale(1.1);
+     -moz-transform: scale(1.1);
+     -o-transform: scale(1.1);
+ }
+ 
+ 
+
+ 
+ .icon-ul { list-style-type:none !important; margin:0px; padding:0px;}
+ .icon-ul li { line-height:75px; width:100%; float:left;}
+ .icon { float:left; margin-right:5px;}
+ 
+ 
+ .copyright { min-height:40px; background-color:#000000;}
+ .copyright p { text-align:left; color:#FFF; padding:10px 0; margin-bottom:0px;}
+ .heading7 { font-size:21px; font-weight:700; color:#d9d6d6; margin-bottom:22px;}
+ .post p { font-size:12px; color:#FFF; line-height:20px;}
+ .post p span { display:block; color:#8f8f8f;}
+ .bottom_ul { list-style-type:none; float:right; margin-bottom:0px;}
+ .bottom_ul li { float:left; line-height:40px;}
+ .bottom_ul li:after { content:"/"; color:#FFF; margin-right:8px; margin-left:8px;}
+ .bottom_ul li a { color:#FFF;  font-size:12px;}
+
+
+
+
+
+
+
+
+
+
+.menuBall a:hover{
+        text-decoration: none;
+}
+
+@-webkit-keyframes pulse {
+    0% {
+      -webkit-transform: scale(1) rotate(0deg); 
+    }
+    50% {
+      -webkit-transform: scale(1.1) rotate(-5deg); 
+    }
+    100% {
+      -webkit-transform: scale(1) rotate(0deg); 
+    }
+}
+@-o-keyframes pulse {
+    0% {
+      -o-transform: scale(1) rotate(0deg); 
+    }
+    50% {
+      -o-transform: scale(1.1) rotate(-5deg); 
+    }
+    100% {
+      -o-transform: scale(1) rotate(0deg); 
+    }
+}
+@-moz-keyframes pulse {
+    0% {
+      -moz-transform: scale(1) rotate(0deg); 
+    }
+    50% {
+      -moz-transform: scale(1.1) rotate(-5deg); 
+    }
+    100% {
+      -moz-transform: scale(1) rotate(0deg); 
+    }
+}
+@keyframes pulse {
+    0% {
+      transform: scale(1) rotate(0deg); 
+    }
+    50% {
+      transform: scale(1.1) rotate(-5deg); 
+    }
+    100% {
+      transform: scale(1) rotate(0deg); 
+    }
+}
+
+@-webkit-keyframes bump {
+  0% {
+      top: 0;
+  }
+  5% {
+      top: 3px;
+  }
+  10% {
+      top:0;
+  }
+  100% {
+      top:0;
+  }
+}
+@-o-keyframes bump {
+  0% {
+      top: 0;
+  }
+  5% {
+      top: 3px;
+  }
+  10% {
+      top:0;
+  }
+  100% {
+      top:0;
+  }
+}
+@-moz-keyframes bump {
+  0% {
+      top: 0;
+  }
+  5% {
+      top: 3px;
+  }
+  10% {
+      top:0;
+  }
+  100% {
+      top:0;
+  }
+}
+@keyframes bump {
+  0% {
+      top: 0;
+  }
+  5% {
+      top: 3px;
+  }
+  10% {
+      top:0;
+  }
+  100% {
+      top:0;
+  }
+}
+
+.menuBall {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.ball {
+    position:absolute;
+    width:100%;
+    height:100%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+    border: 2px dashed #fff;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.ball:hover {
+    -webkit-animation: pulse 1s ease 0s infinite normal;
+    -o-animation: pulse 1s ease 0s infinite normal;
+    -moz-animation: pulse 1s ease 0s infinite normal;
+    animation: pulse 1s ease 0s infinite normal;
+}
+
+.redball {
+    background-color: #d90e23;
+    -moz-box-shadow: 0 0 0 3px #d90e23, 2px 1px 4px 4px rgba(10,10,0,.5);
+    -webkit-box-shadow: 0 0 0 3px #d90e23, 2px 1px 4px 4px rgba(10,10,0,.5);
+    -o-box-shadow: 0 0 0 3px #d90e23, 2px 1px 4px 4px rgba(10,10,0,.5);
+    box-shadow: 0 0 0 3px #d90e23, 2px 1px 6px 4px rgba(10,10,0,.5);
+  
+    background-image: -moz-linear-gradient(0deg, rgba(0,0,0,.25) 50%, transparent 10%),-moz-linear-gradient(rgba(0,0,0,.25) 50%, transparent 50%);
+    background-image: -webkit-linear-gradient(0deg, rgba(0,0,0,.25) 50%, transparent 10%),-webkit-linear-gradient(rgba(0,0,0,.25) 50%, transparent 50%);
+    background-image: -o-linear-gradient(0deg, rgba(0,0,0,.25) 50%, transparent 10%),-o-linear-gradient(rgba(0,0,0,.25) 50%, transparent 50%);
+    background-size:10px 10px;
+}
+
+.blueball {
+    -moz-box-shadow: 0 0 0 3px #d6385b, 2px 1px 4px 4px rgba(10,10,0,.5);
+    -webkit-box-shadow: 0 0 0 3px #d6385b, 2px 1px 4px 4px rgba(10,10,0,.5);
+    -o-box-shadow: 0 0 0 3px #d6385b, 2px 1px 4px 4px rgba(10,10,0,.5);
+    box-shadow: 0 0 0 3px #d6385b, 2px 1px 6px 4px rgba(10,10,0,.5);
+
+    background-image: -webkit-linear-gradient(35deg, #9f2e86 25%, transparent 25%, transparent 75%, #9f2e86 75%, #9f2e86), 
+    -webkit-linear-gradient(-35deg, #9f2e86 25%, transparent 25%, transparent 75%, #9f2e86 75%, #9f2e86);
+    background-image: -moz-linear-gradient(35deg, #9f2e86 25%, transparent 25%, transparent 75%, #9f2e86 75%, #9f2e86), 
+    -moz-linear-gradient(-35deg, #9f2e86 25%, transparent 25%, transparent 75%, #9f2e86 75%, #9f2e86);
+    background-size:20px 20px;  
+    background-color: #d6385b;
+}
+
+.yellowball {
+    background-color: #7968a8;
+    -moz-box-shadow: 0 0 0 3px #7968a8, 2px 1px 4px 4px rgba(10,10,0,.5);
+    -webkit-box-shadow: 0 0 0 3px #7968a8, 2px 1px 4px 4px rgba(10,10,0,.5);
+    box-shadow: 0 0 0 3px #7968a8, 2px 1px 6px 4px rgba(10,10,0,.5);
+  
+    background-image: -webkit-linear-gradient(90deg, transparent 50%, rgba(99,138,190,1) 50%);
+    background-image: -moz-linear-gradient(90deg, transparent 50%, rgba(99,138,190,1) 50%);
+    background-size: 8px 8px;
+}
+
+.greenball {
+    -moz-box-shadow: 0 0 0 3px #65b37a, 2px 1px 4px 4px rgba(10,10,0,.5);
+    -webkit-box-shadow: 0 0 0 3px #65b37a, 2px 1px 4px 4px rgba(10,10,0,.5);
+    box-shadow: 0 0 0 3px #65b37a, 2px 1px 6px 4px rgba(10,10,0,.5);
+
+    background:
+        -webkit-radial-gradient(#e8b15e 4px, transparent 6px);
+    background:
+        -moz-radial-gradient(#e8b15e 4px, transparent 6px);
+    background-size: 20px 20px;
+  
+    background-image: -webkit-radial-gradient(#e8b15e 15%, transparent 16%),
+        -webkit-radial-gradient(#e8b15e 15%, transparent 16%);
+    background-image: -moz-radial-gradient(#e8b15e 15%, transparent 16%),
+        -moz-radial-gradient(#e8b15e 15%, transparent 16%);
+    background-color: #65b37a;
+    background-size:30px 30px;
+    background-position: 0 0, 20px 20px;
+}
+
+.menuText {
+    font-family: 'IdolwildRegular' , Verdana, Helvetica, Sans-Serif;
+    font-size: larger;
+    color: #ffffff;
+    position: relative;
+    vertical-align: middle;
+    text-align: center;
+    top: 40%;
+}
+
+#menuBall1 {
+  -webkit-animation: bump 6s linear 0s infinite normal;
+}
+#menuBall2 {
+  -webkit-animation: bump 6s linear .5s infinite normal;
+}
+#menuBall3 {
+  -webkit-animation: bump 6s linear 1s infinite normal;
+}
+#menuBall4 {
+  -webkit-animation: bump 6s linear 1.5s infinite normal;
+}
+
+#menuBall1 {
+  -moz-animation: bump 6s linear 0s infinite normal;
+}
+#menuBall2 {
+  -moz-animation: bump 6s linear .5s infinite normal;
+}
+#menuBall3 {
+  -moz-animation: bump 6s linear 1s infinite normal;
+}
+#menuBall4 {
+  -moz-animation: bump 6s linear 1.5s infinite normal;
+}
+
+#menuBall1 {
+  -o-animation: bump 6s linear 0s infinite normal;
+}
+#menuBall2 {
+  -o-animation: bump 6s linear .5s infinite normal;
+}
+#menuBall3 {
+  -o-animation: bump 6s linear 1s infinite normal;
+}
+#menuBall4 {
+  -o-animation: bump 6s linear 1.5s infinite normal;
+}
+
+#menuBall1 {
+  animation: bump 6s linear 0s infinite normal;
+}
+#menuBall2 {
+  animation: bump 6s linear .5s infinite normal;
+}
+#menuBall3 {
+  animation: bump 6s linear 1s infinite normal;
+}
+#menuBall4 {
+  animation: bump 6s linear 1.5s infinite normal;
+}
+
+
+div#partyInfo {
+    position: absolute;
+    bottom: 30%;
+    top: 30%;
+    left: 20%;
+    right: 20%;
+    margin: 5px;
+    padding: 8px;
+    z-index: 2000;
+    text-shadow: -1px -1px #65b37a;
+    font-family: 'IdolwildRegular' , Verdana, Helvetica, Sans-Serif;
+    font-size: 2.5em;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: 2px dashed #fff;
+    background-color: #d90e23;
+    -moz-box-shadow: 0 0 0 3px #d90e23, 2px 1px 4px 4px rgba(10,10,0,.5);
+    -webkit-box-shadow: 0 0 0 3px #d90e23, 2px 1px 4px 4px rgba(10,10,0,.5);
+    -o-box-shadow: 0 0 0 3px #d90e23, 2px 1px 4px 4px rgba(10,10,0,.5);
+    box-shadow: 0 0 0 3px #d90e23, 2px 1px 6px 4px rgba(10,10,0,.5);
+}
+
+#darkMe {
+    position:absolute;
+    top:0;
+    left:0;
+    height:100%;
+    width: 100%;
+    background: rgba(0,0,0,0.65);
+    z-index: 1000;
+    -webkit-filter: blur(3px);
+}
+
+#darkMe.hideMe, #partyInfo.hideMe {
+    visibility: hidden;
+}
+
+#darkMe.showMe, #partyInfo.showMe{
+    visibility:visible;
+}
+
+
+
+.con {
+    width: 280px;
+    height: 680px;
+}
+.btn-circle.btn-lg {
+ width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+}
+
+.fix {
+     position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+
